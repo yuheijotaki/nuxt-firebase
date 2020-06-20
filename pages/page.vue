@@ -3,10 +3,10 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxt-firebase
+        Page
       </h1>
       <div class="links">
-        <nuxt-link to="/page/" class="button--green">Page</nuxt-link>
+        <nuxt-link to="/" class="button--green">Back</nuxt-link>
       </div>
     </div>
   </div>

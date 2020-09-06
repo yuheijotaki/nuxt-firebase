@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxt-firebase
+        nuxt-firebase 20200907
       </h1>
       <div class="links">
         <nuxt-link to="/page/" class="button--green">Page</nuxt-link>

@@ -3,6 +3,7 @@ const title = 'nuxt-firebase demo'
 const description = 'Nuxt.js と Firebase を使ったデモサイトです。'
 
 export default {
+  srcDir: 'src/',
   /*
   ** Nuxt rendering mode
   ** See https://nuxtjs.org/api/configuration-mode
